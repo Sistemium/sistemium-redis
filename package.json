@@ -1,0 +1,16 @@
+{
+  "name": "sistemium-redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/redis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sitemium UAB",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^3.0.2",
+    "sistemium-debug": "^1.0.1"
+  }
+}
